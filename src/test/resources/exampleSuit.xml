@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<suite name="CSVTest">
+    <parameter name="a" value="2"/>
+    <parameter name="a" value="8"/>
+    <test name="CSVTest">
+        <classes>
+            <class name= "org.example.CSVTest"/>
+        </classes>
+    </test>
+</suite>
